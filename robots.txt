@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://potolok-standart.ru/
+Sitemap: https://potolok-standart.ru/sitemap.xml
